@@ -27,5 +27,8 @@ let f = 16.7; // num
 let g = true; // boolean
 let i = false; 
 
+// var är global och finns överallt, använd var till varje pris
+// let är lokal och kan ändras
+// const är lokal och kan inte ändras (den är konstant)
 
 console.log(c, e, g);
